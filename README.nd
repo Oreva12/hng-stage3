@@ -1,0 +1,19 @@
+# TaskMate — AI Task Assistant 🤖
+
+TaskMate is a simple AI agent built with **@mastra/core** and **Gemini** that helps users manage tasks on **Telex.im**.
+
+### 🚀 Features
+- Add tasks with or without deadlines
+- List all tasks
+- Conversational Telex integration
+
+### 🧠 Stack
+- Node.js
+- @mastra/core
+- Gemini API (via Google AI)
+- Telex.im (A2A protocol)
+
+### 🏃 How to Run
+```bash
+npm install
+node index.js
